@@ -1,2 +1,2 @@
-# BridgeLabz_Workshop
-This repository is used to store BridgeLabz Workshop.
+# PetShopManagementSystem
+This repository is used to store data Pet Shop.
