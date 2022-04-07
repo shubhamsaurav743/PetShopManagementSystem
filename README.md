@@ -1,2 +1,2 @@
 # PetShopManagementSystem
-This repository is used to store data Pet Shop.
+This repository is used to store data about Pet Shop.
