@@ -4,7 +4,7 @@ public class Macau extends Pet {
 
     Macau(){
         name = "Macau";
-        color = "Green";
+        color = Color.GREEN;
     }
 
     @Override

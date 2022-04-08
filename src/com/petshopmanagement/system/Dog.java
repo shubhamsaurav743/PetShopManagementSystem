@@ -4,7 +4,7 @@ public class Dog extends Pet {
 
     Dog(){
         name = "Dog";
-        color = "Black";
+        color = Color.BLACK;
     }
 
     @Override
